@@ -1,0 +1,5 @@
+
+  #messageFeed {
+    height: calc(90vh - 172px); /* space for fixed navbar (48px), "main" title (71px), footer (53px)  = 172 */
+    overflow-y: scroll; /* vertical scroll for the message feed */
+  }
